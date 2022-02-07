@@ -1,6 +1,5 @@
 {
-  "extends": ["stylelint-config-sass-guidelines", "stylelint-prettier/recommended"],
-  "plugins": ["stylelint-scss"],
+  "extends": ["stylelint-prettier/recommended"],
   "rules": {
     "order/properties-alphabetical-order": null,
     "color-hex-length": "long",
